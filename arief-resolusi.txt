@@ -1,4 +1,4 @@
 Arief Resolusi
 -konsisten ngoding
 -konsisten di database
--menjadi data analyst
+-belajar oracle
